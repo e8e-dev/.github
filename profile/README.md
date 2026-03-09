@@ -1,8 +1,8 @@
 # e8e
 
-**Executable Development**
+The Zero-Maintenance Web System™
 
----
+e8e.dev builds fast, secure websites using modern static architecture with no hosting fees and no maintenance.
 
-💼 Open to collaboration  
-⚡ Built with passion by [Faisal Darbar](https://github.com/faisaldarbar)
+🔧 System development and architecture  
+🌐 https://e8e.dev
