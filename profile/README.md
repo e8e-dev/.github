@@ -1,8 +1,7 @@
 # e8e
 
-The Zero-Maintenance Web System™
+More leads. Zero maintenance. Lower cost. Faster performance.
 
-e8e.dev builds fast, secure websites using modern static architecture with no hosting fees and no maintenance.
+e8e.dev builds fast, reliable websites for businesses that want results without the technical overhead of traditional platforms. Built on the Zero-Maintenance Web System™.
 
-🔧 System development and architecture  
 🌐 https://e8e.dev
